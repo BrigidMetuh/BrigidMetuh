@@ -1,6 +1,10 @@
-<center><b> Nice to meet you, I'm Brigid</b></center>
-<hr>
+<h1 align = "center"> Nice to meet you, I'm Brigid 👋</h1>
+<h3 align = "center"> Currently a Software Engineering undergraduate 📙</h3>
 
+<p>I enjoy coding; mostly Java, Python, HTML and C++. I've stepped out of my comfort zone a few times with web API, and I'm quite eager to do so again to get more comfortable when programming.</p>
+<p>I'm working on improving my skills and even uploading some projects. Overall, I'm happy to be here 🌸</p>
+
+<p align = "right"><i>Updating when I progress...</i></p>
 
 <!--
 **BrigidMetuh/BrigidMetuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
