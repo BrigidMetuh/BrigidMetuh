@@ -2,7 +2,7 @@
 <h3 align = "center"> Software Engineering student 📙</h3>
 <p>Software Engineering student building open source contributions for GSoC 2027.</p>
 <p>Open to feedback.</p> 
-<p>Reach me: metuhbrigid@gmail.com OR <a href="https://discord.com/users/1506986264140845137"> Discord </a></p>
+<p>Reach me: metuhbrigid@gmail.com OR <a href="https://discord.com/users/1506973000321335296"> Discord </a></p>
 
 <!--
 <p>I enjoy coding; mostly Java, Python, HTML and C++. I've stepped out of my comfort zone a few times with web API, and I'm quite eager to do so again to get more comfortable when programming.</p>
